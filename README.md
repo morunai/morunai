@@ -24,22 +24,20 @@ Most of my projects start as "this should take an afternoon." Some of them are e
 <!--
   HOW TO ADD A CERTIFICATION
   1. Add a line to the list below:  - **<Certification name>** · <Issuer>
-  2. Optional, once you have the official badge: add an <a><img></a> line to the badge row
-     further down and uncomment the row. Use the badge image and verification URL from the
-     issuer (Credly for AWS: open the badge > Share > copy the public link and the image URL).
-     Keep width="100" so the row stays tidy.
+     and link the name to its Credly page.
+  2. Add an <a><img></a> line to the badge row below. To get the image URL from a Credly
+     badge ID:  curl -s https://api.credly.com/v1/obi/v2/badge_assertions/<ID>  -> open the
+     "badge" URL it returns -> use its image.id. Keep width="110" so the row stays tidy.
   Only add certifications that are actually completed.
 -->
 
-- **AWS Certified AI Practitioner** · Amazon Web Services
-- **Claude Certified Architect — Foundations** · Anthropic
-
-<!-- Badge row: uncomment and fill in real URLs from the issuers. Do not guess them.
 <p>
-  <a href="TODO_AWS_AI_PRACTITIONER_VERIFY_URL"><img src="TODO_AWS_AI_PRACTITIONER_BADGE_IMAGE_URL" alt="AWS Certified AI Practitioner" width="100"></a>
-  <a href="TODO_CLAUDE_ARCHITECT_VERIFY_URL"><img src="TODO_CLAUDE_ARCHITECT_BADGE_IMAGE_URL" alt="Claude Certified Architect — Foundations" width="100"></a>
+  <a href="https://www.credly.com/badges/4e21b1dd-8dce-4c8a-b2bc-5380c9b91ac4"><img src="https://images.credly.com/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified AI Practitioner badge" width="110"></a>
+  <a href="https://www.credly.com/badges/6b500293-4f92-4def-a070-88f71fe226c7"><img src="https://images.credly.com/images/f2040db3-3904-4240-8966-e87b1510bea0/blob" alt="Claude Certified Architect — Foundations badge" width="110"></a>
 </p>
--->
+
+- [**AWS Certified AI Practitioner**](https://www.credly.com/badges/4e21b1dd-8dce-4c8a-b2bc-5380c9b91ac4) · Amazon Web Services
+- [**Claude Certified Architect — Foundations**](https://www.credly.com/badges/6b500293-4f92-4def-a070-88f71fe226c7) · Anthropic
 
 <img src="https://img.shields.io/badge/technically-employable%E2%84%A2-8b949e?style=flat-square&labelColor=30363d" alt="Technically Employable™ (self-issued, not a credential)" title="Self-issued. Not a credential.">
 
