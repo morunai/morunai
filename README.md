@@ -40,9 +40,6 @@ Most of my projects start as "this should take an afternoon." Some of them are e
 - [**Claude Certified Architect — Foundations**](https://www.credly.com/badges/6b500293-4f92-4def-a070-88f71fe226c7) · Anthropic
 
 <img src="https://img.shields.io/badge/technically-employable%E2%84%A2-8b949e?style=flat-square&labelColor=30363d" alt="Technically Employable™ (self-issued, not a credential)" title="Self-issued. Not a credential.">
-
-<sub>Professional enough to pass exams. Unsupervised enough to build questionable side projects.</sub>
-
 ## Elsewhere on the internet
 
 - **GitHub**: you're already here
