@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-6 40 480 120" width="480" height="120" role="img" aria-label="moru.">
+  <title>moru.</title>
+  <g fill="none" stroke="#1F2328" stroke-width="26" stroke-linecap="butt" stroke-linejoin="miter">
+    <path d="M13 150V50M13 90A27 27 0 0 1 67 90V150M67 90A27 27 0 0 1 121 90V150"/>
+    <circle cx="202" cy="100" r="37"/>
+    <path d="M283 150V50M283 90A27 27 0 0 1 310 63H324"/>
+    <path d="M353 50V110A27 27 0 0 0 407 110M407 50V150"/>
+  </g>
+  <circle cx="452" cy="133" r="17" fill="#E5484D"/>
+</svg>
